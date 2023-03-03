@@ -1,0 +1,17 @@
+{
+    "name": "greent/handle-string",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Greent\\HandleArray\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TaiNV",
+            "email": "tainv.nta@gmail.com"
+        }
+    ],
+    "require": {}
+}
