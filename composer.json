@@ -14,5 +14,10 @@
             "email": "tainv.nta@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    }
 }
