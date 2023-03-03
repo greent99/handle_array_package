@@ -14,5 +14,6 @@
             "email": "tainv.nta@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
 }
