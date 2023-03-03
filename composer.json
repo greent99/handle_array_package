@@ -1,5 +1,5 @@
 {
-    "name": "greent/handle-string",
+    "name": "greent/handle-array",
     "type": "library",
     "license": "MIT",
     "autoload": {
